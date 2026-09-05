@@ -1,11 +1,21 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
   <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Diário Dos Favoritos</title>
+    <link rel="stylesheet" href="style.css">
   </head>
   <body>
-    <h1>Diário Dos Favoritos</h1>
-    <p>Uma lista dos repositórios  e criadores de conteudo que favoritei.</p>
+    <main>
+      <header>
+        <h1>Diário dos favoritos</h1>
+        <p>Uma lista dos repositórios e criadores de conteúdo que favoritei.</p>
+      </header>
+      <ul id="repository-list" aria-live="polite">
+        <li class="status">Carregando repositórios...</li>
+      </ul>
+    </main>
+    <script src="script.js" defer></script>
   </body>
 </html>
