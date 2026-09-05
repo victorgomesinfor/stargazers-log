@@ -1,0 +1,30 @@
+[
+  {
+    "name": "github/docs",
+    "description": "Documentação oficial do GitHub para aprender, criar e colaborar.",
+    "language": "Markdown",
+    "stars": 16200,
+    "url": "https://github.com/github/docs"
+  },
+  {
+    "name": "microsoft/vscode",
+    "description": "Editor de código-fonte desenvolvido pela Microsoft.",
+    "language": "TypeScript",
+    "stars": 171000,
+    "url": "https://github.com/microsoft/vscode"
+  },
+  {
+    "name": "vercel/next.js",
+    "description": "O framework React para a web, usado para criar aplicações rápidas.",
+    "language": "JavaScript",
+    "stars": 132000,
+    "url": "https://github.com/vercel/next.js"
+  },
+  {
+    "name": "freeCodeCamp/freeCodeCamp",
+    "description": "Plataforma aberta para aprender desenvolvimento web e programação.",
+    "language": "JavaScript",
+    "stars": 43000,
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp"
+  }
+]
