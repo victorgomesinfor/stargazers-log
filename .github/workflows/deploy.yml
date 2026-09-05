@@ -1,8 +1,8 @@
-Nome: Implantar no GitHub Pages
+name: Deploy to GitHub Pages
 
-sobre:
-  empurrar:
-    galhos:
+on:
+  push:
+    branches:
       - main
 
 permissions:
